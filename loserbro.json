@@ -1,9 +1,9 @@
 {
   "show_dialog": true,
   "enable_blocker": false,
-  "title": "公告",
-  "content": "请联系管理员激活，10r永久使用",
-  "btn_text": "购卡",
-  "btn_url": "https://qm.qq.com/q/eTjgt6eT6w",
-  "white_list":" [B75CAE0A] "
+  "title": "Loser",
+  "content": "Who do you think you can fool? You're just wasting both our time.",
+  "btn_text": "fuck",
+  "btn_url": "https://www.vatican.va/content/vatican/en.html",
+  "white_list":" "
 }
