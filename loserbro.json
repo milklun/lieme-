@@ -1,5 +1,5 @@
 {
-  "show_dialog": true,
+  "show_dialog": false,
   "enable_blocker": false,
   "title": "Loser",
   "content": "Who do you think you can fool? You're just wasting both our time.",
